@@ -160,7 +160,8 @@ Les paramètres sont accessibles depuis la **barre latérale** de l'application 
 
 ## 🌳 Recommandations de Reboisement
 <p align="center">
-  <img src="Screenshots/webcam.png" alt="Recommandations de Reboisement" width="100%" />
+  <img src="Screenshots/Reboisement1.png" alt="Recommandations de Reboisement" width="49%" />
+  <img src="Screenshots/Reboisement1.png" alt="Recommandations de Reboisement" width="49%" />
 </p>
 
 ---
