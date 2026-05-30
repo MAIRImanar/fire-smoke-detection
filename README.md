@@ -1,4 +1,4 @@
-# 🔥 Fire & Smoke Detection — AI Vision System
+#  Fire & Smoke Detection — AI Vision System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" />
@@ -14,7 +14,7 @@
 
 ---
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
 | Fonctionnalité | Description |
 |---|---|
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧠 Architecture du Pipeline
+##  Architecture du Pipeline
 
 ```
 Image / Frame
@@ -56,7 +56,7 @@ Image / Frame
 
 ---
 
-## 🌳 Recommandations de Reboisement
+##  Recommandations de Reboisement
 
 Après chaque détection, le système calcule le **niveau de dégâts** (% de surface affectée) et propose des recommandations :
 
@@ -68,7 +68,7 @@ Après chaque détection, le système calcule le **niveau de dégâts** (% de su
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Prérequis
 
@@ -111,7 +111,7 @@ fire-smoke-detection/
 
 ---
 
-## ⚙️ Paramètres
+##  Paramètres
 
 Les paramètres sont accessibles depuis la **barre latérale** de l'application :
 
@@ -124,28 +124,28 @@ Les paramètres sont accessibles depuis la **barre latérale** de l'application 
 
 ---
 
-## 🖼️ Aperçu
+##  Aperçu
 
 ### Interface principale
 <p align="center">
   <img src="Screenshots/home.png" alt="Interface d'accueil" width="100%" />
 </p>
 
-### 🔥 Détection de feu et fumée
+###  Détection de feu et fumée
 > Détection avec bounding boxes, niveau de confiance par zone (FIRE 80 % · SMOKE 62 %).
 <p align="center">
   <img src="Screenshots/detection-fire1.png" alt="Aucune détection" width="49%" />
   <img src="Screenshots/detection-fire2.png" alt="Aucune détection" width="49%" />
 </p>
 
-### ✅ Aucune menace détectée
+###  Aucune menace détectée
 > Le pipeline ignore les images sans feu (ex. coucher de soleil) — aucun faux positif.
 <p align="center">
   <img src="Screenshots/no-detection1.png" alt="Aucune détection" width="49%" />
   <img src="Screenshots/no-detection2.png" alt="Aucune détection" width="49%" />
 </p>
 
-### 🎬 Analyse vidéo
+###  Analyse vidéo
 <p align="center">
   <img src="Screenshots/video.png" alt="Analyse vidéo" width="49%" />
   <img src="Screenshots/video-summary.png" alt="Résumé vidéo" width="49%" />
@@ -158,7 +158,7 @@ Les paramètres sont accessibles depuis la **barre latérale** de l'application 
 
 ---
 
-## 🌳 Recommandations de Reboisement
+##  Recommandations de Reboisement
 <p align="center">
   <img src="Screenshots/Reboisement1.png" alt="Recommandations de Reboisement" width="49%" />
   <img src="Screenshots/Reboisement1.png" alt="Recommandations de Reboisement" width="49%" />
@@ -166,7 +166,7 @@ Les paramètres sont accessibles depuis la **barre latérale** de l'application 
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 - **[Streamlit](https://streamlit.io/)** — Framework web Python
 - **[Ultralytics YOLO](https://github.com/ultralytics/ultralytics)** — Modèles YOLOv11
@@ -176,7 +176,7 @@ Les paramètres sont accessibles depuis la **barre latérale** de l'application 
 
 ---
 
-## 📄 Licence
+## Licence
 
 Ce projet est à usage privé / commercial. Tous droits réservés.
 
