@@ -128,31 +128,31 @@ Les paramètres sont accessibles depuis la **barre latérale** de l'application 
 
 ### Interface principale
 <p align="center">
-  <img src="screenshots/home.png" alt="Interface d'accueil" width="100%" />
+  <img src="Screenshots/home.png" alt="Interface d'accueil" width="100%" />
 </p>
 
 ### 🔥 Détection de feu et fumée
 > Détection avec bounding boxes, niveau de confiance par zone (FIRE 80 % · SMOKE 62 %).
 <p align="center">
-  <img src="screenshots/detection-fire.png" alt="Détection feu et fumée" width="100%" />
+  <img src="Screenshots/detection-fire.png" alt="Détection feu et fumée" width="100%" />
 </p>
 
 ### ✅ Aucune menace détectée
 > Le pipeline ignore les images sans feu (ex. coucher de soleil) — aucun faux positif.
 <p align="center">
-  <img src="screenshots/no-detection1.png" alt="Aucune détection" width="100%" />
-  <img src="screenshots/no-detection2.png" alt="Aucune détection" width="100%" />
+  <img src="Screenshots/no-detection1.png" alt="Aucune détection" width="100%" />
+  <img src="Screenshots/no-detection2.png" alt="Aucune détection" width="100%" />
 </p>
 
 ### 🎬 Analyse vidéo
 <p align="center">
-  <img src="screenshots/video.png" alt="Analyse vidéo" width="49%" />
-  <img src="screenshots/video-summary.png" alt="Résumé vidéo" width="49%" />
+  <img src="Screenshots/video.png" alt="Analyse vidéo" width="49%" />
+  <img src="Screenshots/video-summary.png" alt="Résumé vidéo" width="49%" />
 </p>
 
 ### 📹 Webcam temps réel
 <p align="center">
-  <img src="screenshots/webcam.png" alt="Webcam temps réel" width="100%" />
+  <img src="Screenshots/webcam.png" alt="Webcam temps réel" width="100%" />
 </p>
 
 ---
