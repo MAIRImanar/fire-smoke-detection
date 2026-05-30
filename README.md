@@ -134,7 +134,8 @@ Les paramètres sont accessibles depuis la **barre latérale** de l'application 
 ### 🔥 Détection de feu et fumée
 > Détection avec bounding boxes, niveau de confiance par zone (FIRE 80 % · SMOKE 62 %).
 <p align="center">
-  <img src="Screenshots/detection-fire.png" alt="Détection feu et fumée" width="100%" />
+  <img src="Screenshots/detection-fire1.png" alt="Aucune détection" width="49%" />
+  <img src="Screenshots/detection-fire2.png" alt="Aucune détection" width="49%" />
 </p>
 
 ### ✅ Aucune menace détectée
@@ -153,6 +154,13 @@ Les paramètres sont accessibles depuis la **barre latérale** de l'application 
 ### 📹 Webcam temps réel
 <p align="center">
   <img src="Screenshots/webcam.png" alt="Webcam temps réel" width="100%" />
+</p>
+
+---
+
+## 🌳 Recommandations de Reboisement
+<p align="center">
+  <img src="Screenshots/webcam.png" alt="Recommandations de Reboisement" width="100%" />
 </p>
 
 ---
