@@ -140,8 +140,8 @@ Les paramètres sont accessibles depuis la **barre latérale** de l'application 
 ### ✅ Aucune menace détectée
 > Le pipeline ignore les images sans feu (ex. coucher de soleil) — aucun faux positif.
 <p align="center">
-  <img src="Screenshots/no-detection1.png" alt="Aucune détection" width="100%" />
-  <img src="Screenshots/no-detection2.png" alt="Aucune détection" width="100%" />
+  <img src="Screenshots/no-detection1.png" alt="Aucune détection" width="49%" />
+  <img src="Screenshots/no-detection2.png" alt="Aucune détection" width="49%" />
 </p>
 
 ### 🎬 Analyse vidéo
