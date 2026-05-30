@@ -9,7 +9,7 @@
 
 <p align="center">
   Système intelligent de détection de feux et de fumée en temps réel,<br>
-  avec recommandations de reboisement basées sur le niveau de dégâts.
+  avec recommandations de reboisement.
 </p>
 
 ---
