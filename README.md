@@ -34,7 +34,7 @@ Image / Frame
      │
      ▼
 ┌─────────────────┐
-│  CLASSIFICATEUR │  ← YOLOv11 (classifier.pt)
+│  CLASSIFICATEUR │  ← YOLOv11 (best_cls.pt)
 │  (Fire / No Fire)│
 └─────────────────┘
      │
@@ -44,7 +44,7 @@ Image / Frame
                 │
                 ▼
         ┌──────────────┐
-        │  DÉTECTEUR   │  ← YOLOv11 (best_nano_111.pt)
+        │  DÉTECTEUR   │  ← YOLOv11 (best_dtc.pt)
         │  (Bounding   │
         │   Boxes)     │
         └──────────────┘
@@ -87,8 +87,8 @@ pip install streamlit ultralytics opencv-python pillow numpy
 
 # 3. Placer les modèles dans le dossier models/
 mkdir -p models
-# → models/best_nano_111.pt  (modèle de détection)
-# → models/classifier.pt     (modèle de classification)
+# → models/best_dtc.pt  (modèle de détection)
+# → models/best_cls.pt     (modèle de classification)
 
 # 4. Lancer l'application
 streamlit run App.py
@@ -105,8 +105,8 @@ fire-smoke-detection/
 ├── README.md
 │
 └── models/
-    ├── best_nano_111.pt    # YOLOv11 — Détection (bounding boxes)
-    └── classifier.pt       # YOLOv11 — Classification (fire / no fire)
+    ├── best_cls.pt    # YOLOv11 — Détection (bounding boxes)
+    └── best_dtc.pt       # YOLOv11 — Classification (fire / no fire)
 ```
 
 ---
